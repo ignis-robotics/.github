@@ -17,7 +17,7 @@ We design, build, and program competition robots while promoting STEM in our com
 ## Sponsors
 
 <div align="center">
-<img width="2328" height="1084" alt="IGNIS Robotics sponsors" src="https://github.com/user-attachments/assets/703594b8-cc69-4425-9bb5-aecbd6dceb0a" />
+<img width="1162" height="530" alt="Screenshot 2026-11-11 at 8 18 36 PM" src="https://github.com/user-attachments/assets/741bcd63-7131-43ac-818d-7d8325661d3c" />
 </div>
 
 We are always looking to grow our sponsor network. Every partnership helps us cover parts, tools, registration, and travel.
